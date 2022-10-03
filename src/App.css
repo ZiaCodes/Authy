@@ -4,11 +4,11 @@
 }
 .Navigation{
     display: flex;
-    height: 50px;
+    height: 52px;
     justify-content: space-between;
     background-color: #fff;
     align-items: center;
-    box-shadow: 2px 5px 3px rgba(0, 0, 0, 0.158);
+    box-shadow: 2px 5px 3px rgba(0, 0, 0, 0.155);
     padding: 10px;
 }
 .Logo{
@@ -17,7 +17,7 @@
 }
 
 .Logo:hover{
-    color: rgba(7, 67, 45, 0.515);
+    color: rgba(7, 67, 45, 0.520);
 }
 
 .Navigation > .nav-list{
@@ -31,7 +31,7 @@
 }
 
 .Navigation .nav-list li:hover{
-    color: rgba(7, 67, 45, 0.515);
+    color: rgba(7, 67, 45, 0.520);
 }
 
 .landing{
@@ -95,18 +95,18 @@ button{
     flex-wrap: wrap;
 }
 .main-content .Card{
-    box-shadow: 2px 5px 3px rgba(0, 0, 0, 0.158);
+    box-shadow: 2px 5px 3px rgba(0, 0, 0, 0.160);
     width: 150px;
     height: 150px;
     padding: 5px;
     margin: 10px;
     border-radius: 2px;
-    border: 1px solid rgba(0, 0, 0, 0.356);
+    border: 1px solid rgba(0, 0, 0, 0.358);
     transition: 0.3s all;
     cursor: pointer;
 }
 
 .main-content .Card:hover{
     box-shadow: 0 0 0 rgb(0, 0, 0);
-    border: 1px solid rgba(7, 67, 45, 0.515);
+    border: 1px solid rgba(7, 67, 45, 0.520);
 }
