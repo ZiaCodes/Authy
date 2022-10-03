@@ -11,7 +11,10 @@ const Profile = () => {
                 width:'100%',
                 textAlign:'center',
                 marginTop:'50px'
-            }}> Profile Page</p>
+            }}></p>
+<div classname="details">
+  <p> This is form section where user details will be updated </p>
+  </div>
         </section>
     </div>
   )
