@@ -2,22 +2,18 @@ export const categories = [
     {
       name: 'cars',
       image: 'https://i.pinimg.com/750x/eb/47/44/eb4744eaa3b3ccd89749fa3470e2b0de.jpg',
-      title: 'Vehicle'
     },
     {
       name: 'fitness',
       image: 'https://i.pinimg.com/236x/25/14/29/251429345940a47490cc3d47dfe0a8eb.jpg',
-        title: 'Gym'
     },
     {
       name: 'wallpaper',
       image: 'https://i.pinimg.com/236x/03/48/b6/0348b65919fcbe1e4f559dc4feb0ee13.jpg',
-        title: 'desktop and phone '
     },
     {
       name: 'websites',
       image: 'https://i.pinimg.com/750x/66/b1/29/66b1296d36598122e6a4c5452b5a7149.jpg',
-        title: 'Web & app'
     },
     {
       name: 'photo',
@@ -44,12 +40,5 @@ export const categories = [
     }, {
       name: 'cats',
       image: 'https://i.pinimg.com/236x/6c/3c/52/6c3c529e8dadc7cffc4fddedd4caabe1.jpg',
-    }, {
-      name: 'dogs',
-      image: 'https://i.pinimg.com/236x/1b/c8/30/1bc83077e363db1a394bf6a64b071e9f.jpg',
-    },
-    {
-      name: 'others',
-      image: 'https://i.pinimg.com/236x/2e/63/c8/2e63c82dfd49aca8dccf9de3f57e8588.jpg',
     },
   ];
