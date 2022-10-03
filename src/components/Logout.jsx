@@ -12,6 +12,7 @@ const Logout = () => {
                 textAlign:'center',
                 marginTop:'50px'
             }}> Logout</p>
+          <p>This is a logout page </p>
         </section>
     </div>
   )
