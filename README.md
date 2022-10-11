@@ -1,7 +1,7 @@
 ![img](ss1.jpg)
 
 
-[Getting Started with Create React App]()
+[Getting Started with Create React App](https://github.com/ZiaCodes/Authy/blob/patch-1/Getting%20Started%20with%20Create%20React%20App.md)
 
 ------
 ### How to Contribute to this repository
